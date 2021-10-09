@@ -1,0 +1,9 @@
+{
+    "name": "crash-poc",
+    "version": "1.0.0",
+    "description": "Node JS app that throws exception and shows a poc for using systemd to restart crashing apps",
+    "author": "hanleyjames",
+    "license": "MIT",
+    "main": "api/server.js",
+    "keywords": []
+}
